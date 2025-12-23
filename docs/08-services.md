@@ -43,7 +43,6 @@ ClientA                   Server                     ClientB
 int64 a
 int64 b
 
----
 # 响应部分（--- 下方）
 int64 sum
 ```
@@ -314,7 +313,6 @@ if __name__ == '__main__':
 
 ```srv
 # std_srvs/srv/Empty.srv
----
 # 请求和响应都为空
 ```
 
@@ -329,7 +327,6 @@ auto future = client_->async_send_request(request);
 ```srv
 # std_srvs/srv/SetBool.srv
 bool data   # 请求: 设置的值
----
 bool success   # 响应: 是否成功
 string message   # 响应: 状态信息
 ```
@@ -338,7 +335,6 @@ string message   # 响应: 状态信息
 
 ```srv
 # std_srvs/srv/Trigger.srv
----
 bool success
 string message
 ```
@@ -352,7 +348,6 @@ float32 x
 float32 y
 float32 theta
 string name
----
 string name
 ```
 
@@ -507,5 +502,3 @@ ros2 service call /service_name <service_type> "{param: value}"
 1. **[09 Actions](./09-actions.md)** - 学习动作通信（长任务）
 2. **[11 Custom Interfaces](./11-custom-interfaces.md)** - 创建自定义服务类型
 
----
-**✅ 08 服务通讯 - 已完成**

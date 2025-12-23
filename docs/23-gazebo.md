@@ -417,5 +417,3 @@ gz reset -a  # 重置所有
 1. **[24 Camera](./24-camera.md)** - 学习摄像头配置
 2. **[25 Calibration](./25-camera-calibration.md)** - 学习相机校准
 
----
-**✅ 23 Gazebo 仿真 - 已完成**

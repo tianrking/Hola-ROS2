@@ -332,5 +332,3 @@ export FASTRTPS_DEFAULT_PROFILES_FILE=shm_config.xml
 1. **[16 Time APIs](./16-time-apis.md)** - 学习时间 API
 2. **[17 CLI Tools](./17-cli-tools.md)** - 学习命令行工具
 
----
-**✅ 15 DDS - 已完成**

@@ -130,7 +130,6 @@ string[] names           # 字符串数组
 int64 a
 int64 b
 int64 c
----
 # 响应部分
 int64 sum
 bool success
@@ -141,7 +140,6 @@ string message
 ```
 uint64 led_id
 bool state
----
 bool success
 ```
 
@@ -150,11 +148,9 @@ bool success
 **srv/GetMap.srv:**
 ```
 # 请求
----
 # 响应
 nav_msgs/MapMetaData map_info
 int8[] data
----
 # 反馈（如果有）
 ```
 
@@ -166,11 +162,9 @@ int8[] data
 ```
 # Goal - 目标定义
 int32 order
----
 # Result - 结果定义
 int32[] sequence
 bool success
----
 # Feedback - 反馈定义
 int32[] partial_sequence
 float32 progress
@@ -181,11 +175,9 @@ float32 progress
 # Goal
 geometry_msgs/PoseStamped target_pose
 float64 tolerance
----
 # Result
 bool success
 geometry_msgs/PoseStamped final_pose
----
 # Feedback
 geometry_msgs/PoseStamped current_pose
 float32 distance_remaining
@@ -393,5 +385,3 @@ rosidl_generate_interfaces(${PROJECT_NAME}
 1. **[12 Parameters](./12-parameters.md)** - 学习参数服务
 2. **[20 Launch](./20-launch.md)** - 学习启动配置
 
----
-**✅ 11 自定义接口消息 - 已完成**

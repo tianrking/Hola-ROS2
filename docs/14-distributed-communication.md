@@ -362,5 +362,3 @@ export ROS_AUTOMATIC_DISCOVERY_RANGE=SUBNET
 1. **[15 DDS](./15-dds.md)** - 深入学习 DDS 中间件
 2. **[16 Time APIs](./16-time-apis.md)** - 学习时间 API
 
----
-**✅ 14 分布式通讯 - 已完成**

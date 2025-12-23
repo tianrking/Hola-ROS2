@@ -660,5 +660,3 @@ ros2 doctor --report
 1. **[08 Services](./08-services.md)** - 学习服务通信
 2. **[09 Actions](./09-actions.md)** - 学习动作通信
 
----
-**✅ 07 话题通讯 - 已完成**

@@ -299,5 +299,3 @@ sudo apt install ros-humble-<package-name>
 1. **[14 Distributed Communication](./14-distributed.md)** - 学习分布式通信
 2. **[15 DDS](./15-dds.md)** - 学习 DDS 中间件
 
----
-**✅ 13 元功能包 - 已完成**

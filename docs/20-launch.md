@@ -511,5 +511,3 @@ ros2 launch my_package my_launch.py --debug
 1. **[21 Rosbag2](./21-rosbag2.md)** - 学习数据包录制
 2. **[22 URDF](./22-urdf.md)** - 学习机器人建模
 
----
-**✅ 20 Launch 配置 - 已完成**

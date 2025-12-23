@@ -430,5 +430,3 @@ ros2 doctor --report
 1. **[18 RViz2](./18-rviz2.md)** - 学习 RViz2 可视化
 2. **[19 Rqt Tools](./19-rqt-tools.md)** - 学习 Rqt 工具
 
----
-**✅ 17 常用命令工具 - 已完成**

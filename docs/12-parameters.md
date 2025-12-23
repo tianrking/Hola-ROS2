@@ -422,5 +422,3 @@ else:
 1. **[13 Metapackages](./13-metapackages.md)** - 学习元功能包
 2. **[14 Distributed Communication](./14-distributed.md)** - 学习分布式通信
 
----
-**✅ 12 参数服务 - 已完成**

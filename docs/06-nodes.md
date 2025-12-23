@@ -715,5 +715,3 @@ ros2 doctor --report
 1. **[07 Topics](./07-topics.md)** - 深入学习话题通信
 2. **[08 Services](./08-services.md)** - 学习服务通信
 
----
-**✅ 06 节点 - 已完成**

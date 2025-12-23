@@ -756,5 +756,3 @@ colcon build
 1. **[06 Nodes](./06-nodes.md)** - 编写节点代码
 2. **[07 Topics](./07-topics.md)** - 学习话题通信
 
----
-**✅ 05 功能包 - 已完成**

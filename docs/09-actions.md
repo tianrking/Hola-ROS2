@@ -43,11 +43,9 @@
 # Fibonacci.action
 # 目标 (Goal) - 客户端发送的任务
 int32 order
----
 # 结果 (Result) - 任务完成后的返回值
 int32[] sequence
 bool success
----
 # 反馈 (Feedback) - 任务执行过程中的状态更新
 int32[] partial_sequence
 ```
@@ -488,9 +486,7 @@ ros2 action send_goal /fibonacci example_interfaces/action/Fibonacci "{order: 10
 # NavigateToPose.action
 geometry_msgs/PoseStamped pose
 string behavior_tree
----
 std_msgs/Empty result
----
 geometry_msgs/PoseStamped current_pose
 ```
 
@@ -544,5 +540,3 @@ navigator.waitUntilNavTaskComplete()
 1. **[10 TF2](./10-tf2.md)** - 学习坐标变换
 2. **[11 Custom Interfaces](./11-custom-interfaces.md)** - 创建自定义动作类型
 
----
-**✅ 09 动作通讯 - 已完成**

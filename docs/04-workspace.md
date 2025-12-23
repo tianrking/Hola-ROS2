@@ -648,5 +648,3 @@ export PYTHONPATH=$PYTHONPATH:~/ros2_ws/install/<pkg>/lib/python3.10/site-packag
 1. **[05 Packages](./05-packages.md)** - 学习创建和管理功能包
 2. **[06 Nodes](./06-nodes.md)** - 编写第一个节点
 
----
-**✅ 04 工作区 - 已完成**

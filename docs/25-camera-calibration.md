@@ -323,5 +323,3 @@ ret, mtx, dist, rvecs, tvecs = cv2.calibrateCamera(
 1. **[26 AR Vision](./26-ar-vision.md)** - 学习 AR 视觉
 2. 回顾 **[17 CLI Tools](./17-cli-tools.md)** - 复习命令行工具
 
----
-**✅ 25 摄像头校准 - 已完成**

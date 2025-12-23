@@ -623,5 +623,3 @@ cd ~/ros2_ws
 - [从源码构建](https://docs.ros.org/en/humble/Installation/Alternatives/Ubuntu-Development-Setup.html)
 - [ROS 2 问题追踪](https://github.com/ros2/ros2/issues)
 
----
-**✅ 02 安装 Humble - 已完成**

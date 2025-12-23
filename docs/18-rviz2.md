@@ -367,5 +367,3 @@ Tools → Record Video
 1. **[19 Rqt Tools](./19-rqt-tools.md)** - 学习 Rqt 工具
 2. **[20 Launch](./20-launch.md)** - 学习 Launch 配置
 
----
-**✅ 18 RViz2 使用 - 已完成**

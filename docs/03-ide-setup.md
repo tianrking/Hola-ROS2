@@ -727,5 +727,3 @@ find install -name <executable_name> -type f
 2. **[05 Packages](./05-packages.md)** - 创建功能包
 3. **[06 Nodes](./06-nodes.md)** - 编写节点代码
 
----
-**✅ 03 集成开发环境 - 已完成**

@@ -407,7 +407,3 @@ charuco_board = cv2.aruco.CharucoBoard_create(5, 7, 0.04, 0.02, dictionary)
 | [06 节点](./06-nodes.md) | 节点编程 |
 | [07 话题](./07-topics.md) | 通信机制 |
 | [22 URDF](./22-urdf.md) | 机器人建模 |
-
----
-**✅ 26 AR 视觉 - 已完成**
-**✅ 全部 26 篇课程文档已完成！**

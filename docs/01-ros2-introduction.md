@@ -162,7 +162,6 @@ ClientA                Server                 ClientB
 # 文件: example_interfaces/srv/AddTwoInts.srv
 int64 a
 int64 b
----
 int64 sum
 ```
 
@@ -209,10 +208,8 @@ int64 sum
 # 文件: action_interfaces/action/Rotate.action
 float32 target_angle
 float32 duration
----
 float32 final_angle
 bool success
----
 float32 current_angle
 float32 remaining_time
 ```
@@ -795,5 +792,3 @@ docs.ros.org
 └──────────────────────────────────────────────┘
 ```
 
----
-**✅ 01 ROS2 简介 - 已完成**

@@ -370,5 +370,3 @@ ros2 bag play my_bag --qos-profile-overrides-path qos_override.yaml
 1. **[22 URDF](./22-urdf.md)** - 学习机器人建模
 2. **[23 Gazebo](./23-gazebo.md)** - 学习物理仿真
 
----
-**✅ 21 录制回放 - 已完成**

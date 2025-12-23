@@ -400,5 +400,3 @@ xacro my_robot.xacro > processed.urdf
 1. **[23 Gazebo](./23-gazebo.md)** - 学习物理仿真
 2. **[24 Camera](./24-camera.md)** - 学习摄像头配置
 
----
-**✅ 22 URDF 模型 - 已完成**

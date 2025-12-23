@@ -281,5 +281,3 @@ ros2 run rqt_image_view rqt_image_view
 1. **[25 Calibration](./25-camera-calibration.md)** - 学习相机校准
 2. **[26 AR Vision](./26-ar-vision.md)** - 学习 AR 视觉
 
----
-**✅ 24 摄像头预览 - 已完成**

@@ -358,5 +358,3 @@ ros2 run rqt_service_caller rqt_service_caller
 1. **[20 Launch](./20-launch.md)** - 学习 Launch 配置
 2. **[21 Rosbag2](./21-rosbag2.md)** - 学习数据包录制
 
----
-**✅ 19 Rqt 工具箱 - 已完成**
